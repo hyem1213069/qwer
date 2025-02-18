@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "simple-project",
   "version": "1.0.0",
@@ -9,3 +10,16 @@
   "license": "ISC",
   "description": ""
 }
+=======
+{
+  "name": "simple-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+>>>>>>> 3fc647f (no message)
